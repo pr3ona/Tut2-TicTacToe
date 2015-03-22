@@ -4,7 +4,8 @@
 
 int isWon();
 void restart();
-bool move(int, int);
+bool move1();
 void print();
+bool move2();
 
 #endif
